@@ -23,3 +23,4 @@ The Speed Detector challenge requires a program that takes as input the speed of
 
 # Challenge 3: Net Salary Calculator (Toy Problem)
 The Net Salary Calculator challenge requires a program that calculates an individual's net salary based on the inputs of their basic salary. The program will calculate the payee (tax), NHIF deductions, NSSFD deductions, gross salary, and net salary. The payee is calculated based on the individual's tax bracket and gross salary, while the NHIF and NSSFD deductions are fixed percentages of the individual's gross salary. The gross salary is calculated as the sum of the basic salary and benefits, and the net salary is calculated as the gross salary minus the payee, NHIF, and NSSFD deductions
+# Code_challenge1
